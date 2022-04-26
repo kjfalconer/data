@@ -1,0 +1,721 @@
+Entity,Year,Type of pollution,"Rate of death (per 100,000)"
+African Region,1990,Indoor,201.9354892
+African Region,1991,Indoor,199.2812226
+African Region,1992,Indoor,197.5878132
+African Region,1993,Indoor,195.1891706
+African Region,1994,Indoor,192.9434158
+African Region,1995,Indoor,190.884275
+African Region,1996,Indoor,188.8692893
+African Region,1997,Indoor,186.4180024
+African Region,1998,Indoor,184.2376889
+African Region,1999,Indoor,181.0489659
+African Region,2000,Indoor,178.3511625
+African Region,2001,Indoor,174.2523074
+African Region,2002,Indoor,171.0934672
+African Region,2003,Indoor,167.1667228
+African Region,2004,Indoor,163.2037345
+African Region,2005,Indoor,159.0107213
+African Region,2006,Indoor,155.4917987
+African Region,2007,Indoor,150.7703741
+African Region,2008,Indoor,146.5047327
+African Region,2009,Indoor,142.3554524
+African Region,2010,Indoor,138.1356392
+African Region,2011,Indoor,133.9126206
+African Region,2012,Indoor,129.630144
+African Region,2013,Indoor,125.0546827
+African Region,2014,Indoor,120.5239249
+African Region,2015,Indoor,117.0798081
+African Region,2016,Indoor,113.6308641
+African Region,2017,Indoor,110.3497462
+African Region,2018,Indoor,107.0841608
+African Region,2019,Indoor,103.3387132
+African Region,1990,Outdoor,29.83895535
+African Region,1991,Outdoor,30.09120381
+African Region,1992,Outdoor,30.78493373
+African Region,1993,Outdoor,30.95282249
+African Region,1994,Outdoor,31.67878676
+African Region,1995,Outdoor,32.18552859
+African Region,1996,Outdoor,33.24174886
+African Region,1997,Outdoor,34.93962684
+African Region,1998,Outdoor,35.88345675
+African Region,1999,Outdoor,36.46405729
+African Region,2000,Outdoor,37.0882382
+African Region,2001,Outdoor,36.98583661
+African Region,2002,Outdoor,37.09120886
+African Region,2003,Outdoor,37.02045107
+African Region,2004,Outdoor,36.88603958
+African Region,2005,Outdoor,36.81433381
+African Region,2006,Outdoor,37.17716431
+African Region,2007,Outdoor,37.41085375
+African Region,2008,Outdoor,37.96094045
+African Region,2009,Outdoor,38.65596679
+African Region,2010,Outdoor,39.26845342
+African Region,2011,Outdoor,40.21934323
+African Region,2012,Outdoor,41.71003068
+African Region,2013,Outdoor,43.25983533
+African Region,2014,Outdoor,44.49250055
+African Region,2015,Outdoor,45.20457487
+African Region,2016,Outdoor,44.57695891
+African Region,2017,Outdoor,43.84418493
+African Region,2018,Outdoor,43.49840674
+African Region,2019,Outdoor,43.87136477
+African Region,1990,Air pollution (total),232.28506
+African Region,1991,Air pollution (total),229.8411429
+African Region,1992,Air pollution (total),228.7865882
+African Region,1993,Air pollution (total),226.5381694
+African Region,1994,Air pollution (total),225.0259907
+African Region,1995,Air pollution (total),223.5721368
+African Region,1996,Air pollution (total),222.6592228
+African Region,1997,Air pollution (total),221.8787535
+African Region,1998,Air pollution (total),220.5652278
+African Region,1999,Air pollution (total),217.968232
+African Region,2000,Air pollution (total),215.9078602
+African Region,2001,Air pollution (total),211.7760305
+African Region,2002,Air pollution (total),208.6409054
+African Region,2003,Air pollution (total),204.5978342
+African Region,2004,Air pollution (total),200.553878
+African Region,2005,Air pollution (total),196.4631301
+African Region,2006,Air pollution (total),193.5331722
+African Region,2007,Air pollution (total),188.9456466
+African Region,2008,Air pollution (total),185.0516393
+African Region,2009,Air pollution (total),181.494403
+African Region,2010,Air pollution (total),178.0250319
+African Region,2011,Air pollution (total),174.895487
+African Region,2012,Air pollution (total),172.0666715
+African Region,2013,Air pollution (total),169.0254194
+African Region,2014,Air pollution (total),165.6875465
+African Region,2015,Air pollution (total),163.1505625
+African Region,2016,Air pollution (total),159.082762
+African Region,2017,Air pollution (total),155.063919
+African Region,2018,Air pollution (total),151.6418913
+African Region,2019,Air pollution (total),148.2782521
+African Region,1990,Outdoor ozone pollution,1.681574531
+African Region,1991,Outdoor ozone pollution,1.689858105
+African Region,1992,Outdoor ozone pollution,1.613199138
+African Region,1993,Outdoor ozone pollution,1.555906433
+African Region,1994,Outdoor ozone pollution,1.453487541
+African Region,1995,Outdoor ozone pollution,1.446290427
+African Region,1996,Outdoor ozone pollution,1.399483754
+African Region,1997,Outdoor ozone pollution,1.431398558
+African Region,1998,Outdoor ozone pollution,1.399204407
+African Region,1999,Outdoor ozone pollution,1.454096284
+African Region,2000,Outdoor ozone pollution,1.173573672
+African Region,2001,Outdoor ozone pollution,1.086046866
+African Region,2002,Outdoor ozone pollution,0.907268116
+African Region,2003,Outdoor ozone pollution,0.962571129
+African Region,2004,Outdoor ozone pollution,1.190924226
+African Region,2005,Outdoor ozone pollution,1.569117493
+African Region,2006,Outdoor ozone pollution,2.066687771
+African Region,2007,Outdoor ozone pollution,1.948635036
+African Region,2008,Outdoor ozone pollution,1.61143461
+African Region,2009,Outdoor ozone pollution,1.349832022
+African Region,2010,Outdoor ozone pollution,1.431277664
+African Region,2011,Outdoor ozone pollution,1.618827645
+African Region,2012,Outdoor ozone pollution,1.735703734
+African Region,2013,Outdoor ozone pollution,1.946346884
+African Region,2014,Outdoor ozone pollution,1.914047493
+African Region,2015,Outdoor ozone pollution,1.925257034
+African Region,2016,Outdoor ozone pollution,1.802128365
+African Region,2017,Outdoor ozone pollution,1.817639088
+African Region,2018,Outdoor ozone pollution,2.127564093
+African Region,2019,Outdoor ozone pollution,2.220023162
+Eastern Mediterranean Region,1990,Indoor,127.8312391
+Eastern Mediterranean Region,1991,Indoor,125.9605348
+Eastern Mediterranean Region,1992,Indoor,124.3691371
+Eastern Mediterranean Region,1993,Indoor,122.7560354
+Eastern Mediterranean Region,1994,Indoor,121.0740902
+Eastern Mediterranean Region,1995,Indoor,119.4377435
+Eastern Mediterranean Region,1996,Indoor,116.30451
+Eastern Mediterranean Region,1997,Indoor,112.6234663
+Eastern Mediterranean Region,1998,Indoor,107.8433517
+Eastern Mediterranean Region,1999,Indoor,103.5976249
+Eastern Mediterranean Region,2000,Indoor,99.7434868
+Eastern Mediterranean Region,2001,Indoor,96.20747722
+Eastern Mediterranean Region,2002,Indoor,92.58803573
+Eastern Mediterranean Region,2003,Indoor,89.24649656
+Eastern Mediterranean Region,2004,Indoor,85.70832956
+Eastern Mediterranean Region,2005,Indoor,82.04529992
+Eastern Mediterranean Region,2006,Indoor,78.40761224
+Eastern Mediterranean Region,2007,Indoor,74.47623026
+Eastern Mediterranean Region,2008,Indoor,71.11954488
+Eastern Mediterranean Region,2009,Indoor,67.57732214
+Eastern Mediterranean Region,2010,Indoor,64.27671232
+Eastern Mediterranean Region,2011,Indoor,60.95796488
+Eastern Mediterranean Region,2012,Indoor,57.82446895
+Eastern Mediterranean Region,2013,Indoor,55.03246042
+Eastern Mediterranean Region,2014,Indoor,52.29407053
+Eastern Mediterranean Region,2015,Indoor,49.85266095
+Eastern Mediterranean Region,2016,Indoor,47.82266514
+Eastern Mediterranean Region,2017,Indoor,45.7896599
+Eastern Mediterranean Region,2018,Indoor,43.31592886
+Eastern Mediterranean Region,2019,Indoor,40.67088308
+Eastern Mediterranean Region,1990,Outdoor,74.31314034
+Eastern Mediterranean Region,1991,Outdoor,75.44958709
+Eastern Mediterranean Region,1992,Outdoor,76.57996106
+Eastern Mediterranean Region,1993,Outdoor,78.47553426
+Eastern Mediterranean Region,1994,Outdoor,80.02598936
+Eastern Mediterranean Region,1995,Outdoor,80.81933929
+Eastern Mediterranean Region,1996,Outdoor,81.89966148
+Eastern Mediterranean Region,1997,Outdoor,84.23383376
+Eastern Mediterranean Region,1998,Outdoor,86.42150298
+Eastern Mediterranean Region,1999,Outdoor,88.17898486
+Eastern Mediterranean Region,2000,Outdoor,88.10891916
+Eastern Mediterranean Region,2001,Outdoor,89.60291486
+Eastern Mediterranean Region,2002,Outdoor,90.88314156
+Eastern Mediterranean Region,2003,Outdoor,92.30953239
+Eastern Mediterranean Region,2004,Outdoor,92.18938488
+Eastern Mediterranean Region,2005,Outdoor,91.8949138
+Eastern Mediterranean Region,2006,Outdoor,92.43686834
+Eastern Mediterranean Region,2007,Outdoor,93.11940904
+Eastern Mediterranean Region,2008,Outdoor,94.73013414
+Eastern Mediterranean Region,2009,Outdoor,96.02553751
+Eastern Mediterranean Region,2010,Outdoor,96.53107862
+Eastern Mediterranean Region,2011,Outdoor,96.31342154
+Eastern Mediterranean Region,2012,Outdoor,97.17155163
+Eastern Mediterranean Region,2013,Outdoor,97.79455302
+Eastern Mediterranean Region,2014,Outdoor,98.27036461
+Eastern Mediterranean Region,2015,Outdoor,99.34118513
+Eastern Mediterranean Region,2016,Outdoor,98.04698218
+Eastern Mediterranean Region,2017,Outdoor,96.2301527
+Eastern Mediterranean Region,2018,Outdoor,95.85115544
+Eastern Mediterranean Region,2019,Outdoor,96.34489953
+Eastern Mediterranean Region,1990,Air pollution (total),204.338757
+Eastern Mediterranean Region,1991,Air pollution (total),203.3508892
+Eastern Mediterranean Region,1992,Air pollution (total),202.6961791
+Eastern Mediterranean Region,1993,Air pollution (total),202.9557263
+Eastern Mediterranean Region,1994,Air pollution (total),202.9847406
+Eastern Mediterranean Region,1995,Air pollution (total),202.5862878
+Eastern Mediterranean Region,1996,Air pollution (total),200.7662992
+Eastern Mediterranean Region,1997,Air pollution (total),199.4653227
+Eastern Mediterranean Region,1998,Air pollution (total),196.7976711
+Eastern Mediterranean Region,1999,Air pollution (total),194.3984415
+Eastern Mediterranean Region,2000,Air pollution (total),190.4935779
+Eastern Mediterranean Region,2001,Air pollution (total),188.5097153
+Eastern Mediterranean Region,2002,Air pollution (total),186.1151644
+Eastern Mediterranean Region,2003,Air pollution (total),184.2803628
+Eastern Mediterranean Region,2004,Air pollution (total),180.5618273
+Eastern Mediterranean Region,2005,Air pollution (total),176.5928855
+Eastern Mediterranean Region,2006,Air pollution (total),173.5282023
+Eastern Mediterranean Region,2007,Air pollution (total),170.4348202
+Eastern Mediterranean Region,2008,Air pollution (total),168.6902259
+Eastern Mediterranean Region,2009,Air pollution (total),166.297436
+Eastern Mediterranean Region,2010,Air pollution (total),163.4190767
+Eastern Mediterranean Region,2011,Air pollution (total),159.9192275
+Eastern Mediterranean Region,2012,Air pollution (total),157.5739506
+Eastern Mediterranean Region,2013,Air pollution (total),155.41815
+Eastern Mediterranean Region,2014,Air pollution (total),153.1166933
+Eastern Mediterranean Region,2015,Air pollution (total),152.1375299
+Eastern Mediterranean Region,2016,Air pollution (total),148.9977123
+Eastern Mediterranean Region,2017,Air pollution (total),145.2253649
+Eastern Mediterranean Region,2018,Air pollution (total),142.3883833
+Eastern Mediterranean Region,2019,Air pollution (total),140.1925622
+Eastern Mediterranean Region,1990,Outdoor ozone pollution,5.95106029
+Eastern Mediterranean Region,1991,Outdoor ozone pollution,5.892804306
+Eastern Mediterranean Region,1992,Outdoor ozone pollution,5.732228554
+Eastern Mediterranean Region,1993,Outdoor ozone pollution,5.643058862
+Eastern Mediterranean Region,1994,Outdoor ozone pollution,5.656731443
+Eastern Mediterranean Region,1995,Outdoor ozone pollution,5.855182852
+Eastern Mediterranean Region,1996,Outdoor ozone pollution,5.695415482
+Eastern Mediterranean Region,1997,Outdoor ozone pollution,5.729910077
+Eastern Mediterranean Region,1998,Outdoor ozone pollution,5.814289679
+Eastern Mediterranean Region,1999,Outdoor ozone pollution,6.205678875
+Eastern Mediterranean Region,2000,Outdoor ozone pollution,6.047819124
+Eastern Mediterranean Region,2001,Outdoor ozone pollution,5.786313185
+Eastern Mediterranean Region,2002,Outdoor ozone pollution,5.495227139
+Eastern Mediterranean Region,2003,Outdoor ozone pollution,5.678627086
+Eastern Mediterranean Region,2004,Outdoor ozone pollution,5.566505571
+Eastern Mediterranean Region,2005,Outdoor ozone pollution,5.487324728
+Eastern Mediterranean Region,2006,Outdoor ozone pollution,5.414471307
+Eastern Mediterranean Region,2007,Outdoor ozone pollution,5.744202534
+Eastern Mediterranean Region,2008,Outdoor ozone pollution,5.755484332
+Eastern Mediterranean Region,2009,Outdoor ozone pollution,5.408896821
+Eastern Mediterranean Region,2010,Outdoor ozone pollution,5.051914194
+Eastern Mediterranean Region,2011,Outdoor ozone pollution,5.070064637
+Eastern Mediterranean Region,2012,Outdoor ozone pollution,5.144105218
+Eastern Mediterranean Region,2013,Outdoor ozone pollution,5.341985587
+Eastern Mediterranean Region,2014,Outdoor ozone pollution,5.192645745
+Eastern Mediterranean Region,2015,Outdoor ozone pollution,5.376695581
+Eastern Mediterranean Region,2016,Outdoor ozone pollution,5.573469813
+Eastern Mediterranean Region,2017,Outdoor ozone pollution,5.692020687
+Eastern Mediterranean Region,2018,Outdoor ozone pollution,5.498817729
+Eastern Mediterranean Region,2019,Outdoor ozone pollution,5.50619622
+European Region,1990,Indoor,12.92347432
+European Region,1991,Indoor,12.47708341
+European Region,1992,Indoor,12.14157827
+European Region,1993,Indoor,11.98947375
+European Region,1994,Indoor,11.78288903
+European Region,1995,Indoor,11.26179613
+European Region,1996,Indoor,10.60256735
+European Region,1997,Indoor,9.964532872
+European Region,1998,Indoor,9.264864026
+European Region,1999,Indoor,8.788195189
+European Region,2000,Indoor,8.3270051
+European Region,2001,Indoor,7.829199632
+European Region,2002,Indoor,7.401706164
+European Region,2003,Indoor,6.932187389
+European Region,2004,Indoor,6.375614332
+European Region,2005,Indoor,5.980683128
+European Region,2006,Indoor,5.402881191
+European Region,2007,Indoor,4.908033974
+European Region,2008,Indoor,4.46656239
+European Region,2009,Indoor,4.033817954
+European Region,2010,Indoor,3.706485546
+European Region,2011,Indoor,3.39598289
+European Region,2012,Indoor,3.139332594
+European Region,2013,Indoor,2.88457157
+European Region,2014,Indoor,2.685509703
+European Region,2015,Indoor,2.553736348
+European Region,2016,Indoor,2.373034367
+European Region,2017,Indoor,2.225656824
+European Region,2018,Indoor,2.109364626
+European Region,2019,Indoor,1.993373323
+European Region,1990,Outdoor,58.17972607
+European Region,1991,Outdoor,57.72334854
+European Region,1992,Outdoor,57.85925776
+European Region,1993,Outdoor,59.68617598
+European Region,1994,Outdoor,60.24357084
+European Region,1995,Outdoor,58.95564082
+European Region,1996,Outdoor,56.54076689
+European Region,1997,Outdoor,54.2549568
+European Region,1998,Outdoor,52.13267546
+European Region,1999,Outdoor,51.45083525
+European Region,2000,Outdoor,50.07701558
+European Region,2001,Outdoor,48.69494861
+European Region,2002,Outdoor,47.92180094
+European Region,2003,Outdoor,46.8325669
+European Region,2004,Outdoor,44.74447252
+European Region,2005,Outdoor,44.10403105
+European Region,2006,Outdoor,42.01453651
+European Region,2007,Outdoor,41.14620661
+European Region,2008,Outdoor,40.81912668
+European Region,2009,Outdoor,39.56594955
+European Region,2010,Outdoor,38.73294285
+European Region,2011,Outdoor,36.8771736
+European Region,2012,Outdoor,35.27149447
+European Region,2013,Outdoor,33.44404258
+European Region,2014,Outdoor,31.75925154
+European Region,2015,Outdoor,31.08036304
+European Region,2016,Outdoor,29.04022482
+European Region,2017,Outdoor,27.52748398
+European Region,2018,Outdoor,27.29952539
+European Region,2019,Outdoor,27.16719649
+European Region,1990,Air pollution (total),72.88415679
+European Region,1991,Air pollution (total),71.97396285
+European Region,1992,Air pollution (total),71.69303196
+European Region,1993,Air pollution (total),73.44753521
+European Region,1994,Air pollution (total),73.79887262
+European Region,1995,Air pollution (total),72.05422313
+European Region,1996,Air pollution (total),68.85428402
+European Region,1997,Air pollution (total),65.85325595
+European Region,1998,Air pollution (total),62.95088899
+European Region,1999,Air pollution (total),61.76284876
+European Region,2000,Air pollution (total),59.84112255
+European Region,2001,Air pollution (total),57.88278262
+European Region,2002,Air pollution (total),56.82434573
+European Region,2003,Air pollution (total),55.25868548
+European Region,2004,Air pollution (total),52.57817894
+European Region,2005,Air pollution (total),51.48482335
+European Region,2006,Air pollution (total),48.82515843
+European Region,2007,Air pollution (total),47.43410292
+European Region,2008,Air pollution (total),46.57520534
+European Region,2009,Air pollution (total),44.8228722
+European Region,2010,Air pollution (total),43.61971431
+European Region,2011,Air pollution (total),41.45661506
+European Region,2012,Air pollution (total),39.60922758
+European Region,2013,Air pollution (total),37.52007192
+European Region,2014,Air pollution (total),35.61249148
+European Region,2015,Air pollution (total),34.78584548
+European Region,2016,Air pollution (total),32.52502831
+European Region,2017,Air pollution (total),30.80085458
+European Region,2018,Air pollution (total),30.51972872
+European Region,2019,Air pollution (total),30.25388481
+European Region,1990,Outdoor ozone pollution,2.176905321
+European Region,1991,Outdoor ozone pollution,2.158293781
+European Region,1992,Outdoor ozone pollution,2.058104104
+European Region,1993,Outdoor ozone pollution,2.14980287
+European Region,1994,Outdoor ozone pollution,2.143544298
+European Region,1995,Outdoor ozone pollution,2.202811206
+European Region,1996,Outdoor ozone pollution,2.035639662
+European Region,1997,Outdoor ozone pollution,1.940862122
+European Region,1998,Outdoor ozone pollution,1.844060347
+European Region,1999,Outdoor ozone pollution,1.804726268
+European Region,2000,Outdoor ozone pollution,1.690685207
+European Region,2001,Outdoor ozone pollution,1.606962577
+European Region,2002,Outdoor ozone pollution,1.803551025
+European Region,2003,Outdoor ozone pollution,1.82166807
+European Region,2004,Outdoor ozone pollution,1.765521626
+European Region,2005,Outdoor ozone pollution,1.618548973
+European Region,2006,Outdoor ozone pollution,1.560095804
+European Region,2007,Outdoor ozone pollution,1.532664293
+European Region,2008,Outdoor ozone pollution,1.465869132
+European Region,2009,Outdoor ozone pollution,1.418318359
+European Region,2010,Outdoor ozone pollution,1.366420457
+European Region,2011,Outdoor ozone pollution,1.356104808
+European Region,2012,Outdoor ozone pollution,1.377050516
+European Region,2013,Outdoor ozone pollution,1.375270648
+European Region,2014,Outdoor ozone pollution,1.344495137
+European Region,2015,Outdoor ozone pollution,1.309102066
+European Region,2016,Outdoor ozone pollution,1.25720012
+European Region,2017,Outdoor ozone pollution,1.184839475
+European Region,2018,Outdoor ozone pollution,1.240518515
+European Region,2019,Outdoor ozone pollution,1.229462932
+Region of the Americas,1990,Indoor,21.65952156
+Region of the Americas,1991,Indoor,20.27201956
+Region of the Americas,1992,Indoor,19.30663216
+Region of the Americas,1993,Indoor,18.3650905
+Region of the Americas,1994,Indoor,17.25078662
+Region of the Americas,1995,Indoor,16.31320234
+Region of the Americas,1996,Indoor,15.39096692
+Region of the Americas,1997,Indoor,14.47983025
+Region of the Americas,1998,Indoor,13.70676771
+Region of the Americas,1999,Indoor,12.90111048
+Region of the Americas,2000,Indoor,12.20892755
+Region of the Americas,2001,Indoor,11.66697833
+Region of the Americas,2002,Indoor,11.25160985
+Region of the Americas,2003,Indoor,10.81206339
+Region of the Americas,2004,Indoor,10.37207787
+Region of the Americas,2005,Indoor,9.895911335
+Region of the Americas,2006,Indoor,9.433918286
+Region of the Americas,2007,Indoor,8.985114622
+Region of the Americas,2008,Indoor,8.627775805
+Region of the Americas,2009,Indoor,8.373898124
+Region of the Americas,2010,Indoor,7.994722629
+Region of the Americas,2011,Indoor,7.637627311
+Region of the Americas,2012,Indoor,7.244548029
+Region of the Americas,2013,Indoor,6.896476759
+Region of the Americas,2014,Indoor,6.525975105
+Region of the Americas,2015,Indoor,6.202468189
+Region of the Americas,2016,Indoor,5.907757948
+Region of the Americas,2017,Indoor,5.58175241
+Region of the Americas,2018,Indoor,5.282810862
+Region of the Americas,2019,Indoor,5.004349184
+Region of the Americas,1990,Outdoor,33.07133027
+Region of the Americas,1991,Outdoor,32.3102196
+Region of the Americas,1992,Outdoor,31.8597093
+Region of the Americas,1993,Outdoor,31.8853479
+Region of the Americas,1994,Outdoor,31.44982058
+Region of the Americas,1995,Outdoor,31.0925192
+Region of the Americas,1996,Outdoor,30.52647056
+Region of the Americas,1997,Outdoor,29.76572786
+Region of the Americas,1998,Outdoor,29.28497988
+Region of the Americas,1999,Outdoor,28.80311104
+Region of the Americas,2000,Outdoor,27.94435911
+Region of the Americas,2001,Outdoor,27.17474538
+Region of the Americas,2002,Outdoor,26.55117053
+Region of the Americas,2003,Outdoor,25.73315967
+Region of the Americas,2004,Outdoor,24.61489545
+Region of the Americas,2005,Outdoor,23.7806422
+Region of the Americas,2006,Outdoor,22.98373341
+Region of the Americas,2007,Outdoor,22.19831968
+Region of the Americas,2008,Outdoor,21.67212991
+Region of the Americas,2009,Outdoor,21.23463088
+Region of the Americas,2010,Outdoor,20.57943228
+Region of the Americas,2011,Outdoor,20.00994757
+Region of the Americas,2012,Outdoor,19.49572871
+Region of the Americas,2013,Outdoor,19.14143153
+Region of the Americas,2014,Outdoor,18.70284795
+Region of the Americas,2015,Outdoor,18.35797985
+Region of the Americas,2016,Outdoor,17.91787884
+Region of the Americas,2017,Outdoor,17.42481905
+Region of the Americas,2018,Outdoor,17.32363161
+Region of the Americas,2019,Outdoor,17.42604872
+Region of the Americas,1990,Air pollution (total),56.56140192
+Region of the Americas,1991,Air pollution (total),54.35436056
+Region of the Americas,1992,Air pollution (total),52.93724488
+Region of the Americas,1993,Air pollution (total),52.0444262
+Region of the Americas,1994,Air pollution (total),50.63408586
+Region of the Americas,1995,Air pollution (total),49.40648509
+Region of the Americas,1996,Air pollution (total),47.92388427
+Region of the Americas,1997,Air pollution (total),46.3198569
+Region of the Americas,1998,Air pollution (total),45.20414021
+Region of the Americas,1999,Air pollution (total),43.96604797
+Region of the Americas,2000,Air pollution (total),42.29667625
+Region of the Americas,2001,Air pollution (total),40.97273273
+Region of the Americas,2002,Air pollution (total),39.93028677
+Region of the Americas,2003,Air pollution (total),38.54938518
+Region of the Americas,2004,Air pollution (total),36.87987064
+Region of the Americas,2005,Air pollution (total),35.60585883
+Region of the Americas,2006,Air pollution (total),34.44885205
+Region of the Americas,2007,Air pollution (total),33.09954018
+Region of the Americas,2008,Air pollution (total),32.03945867
+Region of the Americas,2009,Air pollution (total),31.23973078
+Region of the Americas,2010,Air pollution (total),30.22879456
+Region of the Americas,2011,Air pollution (total),29.46445664
+Region of the Americas,2012,Air pollution (total),28.52762812
+Region of the Americas,2013,Air pollution (total),27.71464739
+Region of the Americas,2014,Air pollution (total),26.75819112
+Region of the Americas,2015,Air pollution (total),26.05704884
+Region of the Americas,2016,Air pollution (total),25.33645027
+Region of the Americas,2017,Air pollution (total),24.4250497
+Region of the Americas,2018,Air pollution (total),24.11457433
+Region of the Americas,2019,Air pollution (total),23.93558713
+Region of the Americas,1990,Outdoor ozone pollution,2.142412812
+Region of the Americas,1991,Outdoor ozone pollution,2.082461817
+Region of the Americas,1992,Outdoor ozone pollution,2.093284115
+Region of the Americas,1993,Outdoor ozone pollution,2.116290087
+Region of the Americas,1994,Outdoor ozone pollution,2.26319018
+Region of the Americas,1995,Outdoor ozone pollution,2.307490439
+Region of the Americas,1996,Outdoor ozone pollution,2.28525856
+Region of the Americas,1997,Outdoor ozone pollution,2.356733345
+Region of the Americas,1998,Outdoor ozone pollution,2.521118903
+Region of the Americas,1999,Outdoor ozone pollution,2.581902194
+Region of the Americas,2000,Outdoor ozone pollution,2.418432992
+Region of the Americas,2001,Outdoor ozone pollution,2.390927022
+Region of the Americas,2002,Outdoor ozone pollution,2.388577644
+Region of the Americas,2003,Outdoor ozone pollution,2.263729581
+Region of the Americas,2004,Outdoor ozone pollution,2.129232071
+Region of the Americas,2005,Outdoor ozone pollution,2.136568226
+Region of the Americas,2006,Outdoor ozone pollution,2.228656613
+Region of the Americas,2007,Outdoor ozone pollution,2.108035725
+Region of the Americas,2008,Outdoor ozone pollution,1.930801345
+Region of the Americas,2009,Outdoor ozone pollution,1.813207304
+Region of the Americas,2010,Outdoor ozone pollution,1.809460781
+Region of the Americas,2011,Outdoor ozone pollution,1.958478001
+Region of the Americas,2012,Outdoor ozone pollution,1.948903231
+Region of the Americas,2013,Outdoor ozone pollution,1.850640378
+Region of the Americas,2014,Outdoor ozone pollution,1.698938795
+Region of the Americas,2015,Outdoor ozone pollution,1.621719344
+Region of the Americas,2016,Outdoor ozone pollution,1.624882793
+Region of the Americas,2017,Outdoor ozone pollution,1.529883221
+Region of the Americas,2018,Outdoor ozone pollution,1.62724971
+Region of the Americas,2019,Outdoor ozone pollution,1.629126825
+South-East Asia Region,1990,Indoor,198.4704623
+South-East Asia Region,1991,Indoor,194.1382305
+South-East Asia Region,1992,Indoor,189.8526127
+South-East Asia Region,1993,Indoor,184.5627429
+South-East Asia Region,1994,Indoor,178.7211498
+South-East Asia Region,1995,Indoor,172.9210456
+South-East Asia Region,1996,Indoor,169.7550761
+South-East Asia Region,1997,Indoor,169.8206862
+South-East Asia Region,1998,Indoor,165.4590651
+South-East Asia Region,1999,Indoor,157.4750525
+South-East Asia Region,2000,Indoor,152.7958287
+South-East Asia Region,2001,Indoor,149.3945396
+South-East Asia Region,2002,Indoor,145.28282
+South-East Asia Region,2003,Indoor,138.4994003
+South-East Asia Region,2004,Indoor,129.2360542
+South-East Asia Region,2005,Indoor,126.3283402
+South-East Asia Region,2006,Indoor,124.2241759
+South-East Asia Region,2007,Indoor,120.2804496
+South-East Asia Region,2008,Indoor,115.9039707
+South-East Asia Region,2009,Indoor,107.1858586
+South-East Asia Region,2010,Indoor,100.0037394
+South-East Asia Region,2011,Indoor,93.89515884
+South-East Asia Region,2012,Indoor,88.11374607
+South-East Asia Region,2013,Indoor,83.73837602
+South-East Asia Region,2014,Indoor,78.48137461
+South-East Asia Region,2015,Indoor,73.4138609
+South-East Asia Region,2016,Indoor,69.04694952
+South-East Asia Region,2017,Indoor,65.92021047
+South-East Asia Region,2018,Indoor,62.88325974
+South-East Asia Region,2019,Indoor,58.53312205
+South-East Asia Region,1990,Outdoor,51.50352873
+South-East Asia Region,1991,Outdoor,51.89497055
+South-East Asia Region,1992,Outdoor,52.19578816
+South-East Asia Region,1993,Outdoor,52.33347481
+South-East Asia Region,1994,Outdoor,52.38256799
+South-East Asia Region,1995,Outdoor,52.35022987
+South-East Asia Region,1996,Outdoor,53.53618481
+South-East Asia Region,1997,Outdoor,56.1649865
+South-East Asia Region,1998,Outdoor,57.91883865
+South-East Asia Region,1999,Outdoor,58.48015698
+South-East Asia Region,2000,Outdoor,59.85272425
+South-East Asia Region,2001,Outdoor,61.21039622
+South-East Asia Region,2002,Outdoor,62.2571766
+South-East Asia Region,2003,Outdoor,62.21734398
+South-East Asia Region,2004,Outdoor,61.09298958
+South-East Asia Region,2005,Outdoor,62.9332394
+South-East Asia Region,2006,Outdoor,65.56820558
+South-East Asia Region,2007,Outdoor,67.84575374
+South-East Asia Region,2008,Outdoor,70.15166821
+South-East Asia Region,2009,Outdoor,69.47073578
+South-East Asia Region,2010,Outdoor,69.59701807
+South-East Asia Region,2011,Outdoor,71.66236783
+South-East Asia Region,2012,Outdoor,74.75620747
+South-East Asia Region,2013,Outdoor,79.62542985
+South-East Asia Region,2014,Outdoor,82.14824078
+South-East Asia Region,2015,Outdoor,81.6122442
+South-East Asia Region,2016,Outdoor,79.48972466
+South-East Asia Region,2017,Outdoor,78.45631968
+South-East Asia Region,2018,Outdoor,80.2177342
+South-East Asia Region,2019,Outdoor,81.78472027
+South-East Asia Region,1990,Air pollution (total),252.9470688
+South-East Asia Region,1991,Air pollution (total),248.9856927
+South-East Asia Region,1992,Air pollution (total),244.9441711
+South-East Asia Region,1993,Air pollution (total),239.9103568
+South-East Asia Region,1994,Air pollution (total),234.2207632
+South-East Asia Region,1995,Air pollution (total),228.7059844
+South-East Asia Region,1996,Air pollution (total),226.9885703
+South-East Asia Region,1997,Air pollution (total),230.0223064
+South-East Asia Region,1998,Air pollution (total),227.5019303
+South-East Asia Region,1999,Air pollution (total),220.1663333
+South-East Asia Region,2000,Air pollution (total),216.7680794
+South-East Asia Region,2001,Air pollution (total),214.8153519
+South-East Asia Region,2002,Air pollution (total),211.595711
+South-East Asia Region,2003,Air pollution (total),204.9684909
+South-East Asia Region,2004,Air pollution (total),194.4558817
+South-East Asia Region,2005,Air pollution (total),193.7541323
+South-East Asia Region,2006,Air pollution (total),194.6371656
+South-East Asia Region,2007,Air pollution (total),193.2891953
+South-East Asia Region,2008,Air pollution (total),191.1735271
+South-East Asia Region,2009,Air pollution (total),181.1925221
+South-East Asia Region,2010,Air pollution (total),174.2007772
+South-East Asia Region,2011,Air pollution (total),170.5677823
+South-East Asia Region,2012,Air pollution (total),167.9561858
+South-East Asia Region,2013,Air pollution (total),168.726093
+South-East Asia Region,2014,Air pollution (total),166.0833485
+South-East Asia Region,2015,Air pollution (total),161.0023139
+South-East Asia Region,2016,Air pollution (total),154.6477868
+South-East Asia Region,2017,Air pollution (total),150.6724758
+South-East Asia Region,2018,Air pollution (total),149.9739991
+South-East Asia Region,2019,Air pollution (total),147.1758692
+South-East Asia Region,1990,Outdoor ozone pollution,10.32368865
+South-East Asia Region,1991,Outdoor ozone pollution,10.44610806
+South-East Asia Region,1992,Outdoor ozone pollution,10.3531584
+South-East Asia Region,1993,Outdoor ozone pollution,10.59513257
+South-East Asia Region,1994,Outdoor ozone pollution,10.5332568
+South-East Asia Region,1995,Outdoor ozone pollution,10.74838592
+South-East Asia Region,1996,Outdoor ozone pollution,10.87697615
+South-East Asia Region,1997,Outdoor ozone pollution,11.68970129
+South-East Asia Region,1998,Outdoor ozone pollution,12.03121265
+South-East Asia Region,1999,Outdoor ozone pollution,12.39121737
+South-East Asia Region,2000,Outdoor ozone pollution,11.97860093
+South-East Asia Region,2001,Outdoor ozone pollution,11.95096586
+South-East Asia Region,2002,Outdoor ozone pollution,11.46127085
+South-East Asia Region,2003,Outdoor ozone pollution,11.83968258
+South-East Asia Region,2004,Outdoor ozone pollution,11.29003364
+South-East Asia Region,2005,Outdoor ozone pollution,11.71000974
+South-East Asia Region,2006,Outdoor ozone pollution,12.26327445
+South-East Asia Region,2007,Outdoor ozone pollution,13.10660938
+South-East Asia Region,2008,Outdoor ozone pollution,13.108206
+South-East Asia Region,2009,Outdoor ozone pollution,11.63405344
+South-East Asia Region,2010,Outdoor ozone pollution,11.03247459
+South-East Asia Region,2011,Outdoor ozone pollution,11.51675133
+South-East Asia Region,2012,Outdoor ozone pollution,11.87125534
+South-East Asia Region,2013,Outdoor ozone pollution,12.86992876
+South-East Asia Region,2014,Outdoor ozone pollution,13.02905409
+South-East Asia Region,2015,Outdoor ozone pollution,13.11993617
+South-East Asia Region,2016,Outdoor ozone pollution,13.15840229
+South-East Asia Region,2017,Outdoor ozone pollution,13.29022071
+South-East Asia Region,2018,Outdoor ozone pollution,13.811225
+South-East Asia Region,2019,Outdoor ozone pollution,13.94875244
+Western Pacific Region,1990,Indoor,142.8399226
+Western Pacific Region,1991,Indoor,136.9237345
+Western Pacific Region,1992,Indoor,131.1474138
+Western Pacific Region,1993,Indoor,125.1859813
+Western Pacific Region,1994,Indoor,118.3796448
+Western Pacific Region,1995,Indoor,111.4551992
+Western Pacific Region,1996,Indoor,104.9868526
+Western Pacific Region,1997,Indoor,97.69018575
+Western Pacific Region,1998,Indoor,90.86334156
+Western Pacific Region,1999,Indoor,85.79505667
+Western Pacific Region,2000,Indoor,81.70799666
+Western Pacific Region,2001,Indoor,77.16891974
+Western Pacific Region,2002,Indoor,73.17763318
+Western Pacific Region,2003,Indoor,69.16373412
+Western Pacific Region,2004,Indoor,65.68444657
+Western Pacific Region,2005,Indoor,61.07232709
+Western Pacific Region,2006,Indoor,54.92715532
+Western Pacific Region,2007,Indoor,49.71456258
+Western Pacific Region,2008,Indoor,45.74867691
+Western Pacific Region,2009,Indoor,42.32633503
+Western Pacific Region,2010,Indoor,39.38507798
+Western Pacific Region,2011,Indoor,36.34225163
+Western Pacific Region,2012,Indoor,33.05412842
+Western Pacific Region,2013,Indoor,30.26907038
+Western Pacific Region,2014,Indoor,27.89660251
+Western Pacific Region,2015,Indoor,25.74373846
+Western Pacific Region,2016,Indoor,24.14649312
+Western Pacific Region,2017,Indoor,22.59395479
+Western Pacific Region,2018,Indoor,20.79011512
+Western Pacific Region,2019,Indoor,18.81262162
+Western Pacific Region,1990,Outdoor,60.42591473
+Western Pacific Region,1991,Outdoor,60.92755738
+Western Pacific Region,1992,Outdoor,61.57057286
+Western Pacific Region,1993,Outdoor,62.32410484
+Western Pacific Region,1994,Outdoor,62.68564459
+Western Pacific Region,1995,Outdoor,63.10950336
+Western Pacific Region,1996,Outdoor,63.76403874
+Western Pacific Region,1997,Outdoor,64.33652978
+Western Pacific Region,1998,Outdoor,65.20810492
+Western Pacific Region,1999,Outdoor,66.7420736
+Western Pacific Region,2000,Outdoor,68.30644846
+Western Pacific Region,2001,Outdoor,68.7666547
+Western Pacific Region,2002,Outdoor,69.35378239
+Western Pacific Region,2003,Outdoor,69.62483647
+Western Pacific Region,2004,Outdoor,70.41088324
+Western Pacific Region,2005,Outdoor,69.92550084
+Western Pacific Region,2006,Outdoor,67.667861
+Western Pacific Region,2007,Outdoor,66.99446262
+Western Pacific Region,2008,Outdoor,67.78689066
+Western Pacific Region,2009,Outdoor,68.94390841
+Western Pacific Region,2010,Outdoor,69.88507913
+Western Pacific Region,2011,Outdoor,69.90125978
+Western Pacific Region,2012,Outdoor,69.1025467
+Western Pacific Region,2013,Outdoor,68.56509042
+Western Pacific Region,2014,Outdoor,67.77152868
+Western Pacific Region,2015,Outdoor,66.43855426
+Western Pacific Region,2016,Outdoor,64.58405735
+Western Pacific Region,2017,Outdoor,62.35399706
+Western Pacific Region,2018,Outdoor,61.46255774
+Western Pacific Region,2019,Outdoor,61.59113432
+Western Pacific Region,1990,Air pollution (total),208.6386329
+Western Pacific Region,1991,Air pollution (total),203.1732554
+Western Pacific Region,1992,Air pollution (total),198.2863353
+Western Pacific Region,1993,Air pollution (total),193.1600815
+Western Pacific Region,1994,Air pollution (total),186.9685272
+Western Pacific Region,1995,Air pollution (total),180.5429895
+Western Pacific Region,1996,Air pollution (total),174.8326452
+Western Pacific Region,1997,Air pollution (total),168.2129812
+Western Pacific Region,1998,Air pollution (total),161.9479235
+Western Pacific Region,1999,Air pollution (total),158.6255808
+Western Pacific Region,2000,Air pollution (total),155.940076
+Western Pacific Region,2001,Air pollution (total),151.8652518
+Western Pacific Region,2002,Air pollution (total),148.2335501
+Western Pacific Region,2003,Air pollution (total),144.517824
+Western Pacific Region,2004,Air pollution (total),142.022323
+Western Pacific Region,2005,Air pollution (total),136.8732498
+Western Pacific Region,2006,Air pollution (total),128.597275
+Western Pacific Region,2007,Air pollution (total),122.5888933
+Western Pacific Region,2008,Air pollution (total),119.4815417
+Western Pacific Region,2009,Air pollution (total),116.6682501
+Western Pacific Region,2010,Air pollution (total),114.4295858
+Western Pacific Region,2011,Air pollution (total),110.8324106
+Western Pacific Region,2012,Air pollution (total),105.9549112
+Western Pacific Region,2013,Air pollution (total),101.9011163
+Western Pacific Region,2014,Air pollution (total),98.40095009
+Western Pacific Region,2015,Air pollution (total),95.21256915
+Western Pacific Region,2016,Air pollution (total),92.14450286
+Western Pacific Region,2017,Air pollution (total),88.32531578
+Western Pacific Region,2018,Air pollution (total),85.05639018
+Western Pacific Region,2019,Air pollution (total),83.14125998
+Western Pacific Region,1990,Outdoor ozone pollution,12.28780321
+Western Pacific Region,1991,Outdoor ozone pollution,11.97852416
+Western Pacific Region,1992,Outdoor ozone pollution,12.32294078
+Western Pacific Region,1993,Outdoor ozone pollution,12.27806303
+Western Pacific Region,1994,Outdoor ozone pollution,12.54331462
+Western Pacific Region,1995,Outdoor ozone pollution,12.32812873
+Western Pacific Region,1996,Outdoor ozone pollution,12.26210483
+Western Pacific Region,1997,Outdoor ozone pollution,12.3224987
+Western Pacific Region,1998,Outdoor ozone pollution,11.59622297
+Western Pacific Region,1999,Outdoor ozone pollution,11.81224548
+Western Pacific Region,2000,Outdoor ozone pollution,11.13882132
+Western Pacific Region,2001,Outdoor ozone pollution,10.8684099
+Western Pacific Region,2002,Outdoor ozone pollution,10.38818625
+Western Pacific Region,2003,Outdoor ozone pollution,10.44672759
+Western Pacific Region,2004,Outdoor ozone pollution,10.73542257
+Western Pacific Region,2005,Outdoor ozone pollution,10.37439074
+Western Pacific Region,2006,Outdoor ozone pollution,10.3577403
+Western Pacific Region,2007,Outdoor ozone pollution,10.04302009
+Western Pacific Region,2008,Outdoor ozone pollution,10.11636909
+Western Pacific Region,2009,Outdoor ozone pollution,9.112751473
+Western Pacific Region,2010,Outdoor ozone pollution,8.542316162
+Western Pacific Region,2011,Outdoor ozone pollution,7.549484121
+Western Pacific Region,2012,Outdoor ozone pollution,6.429868221
+Western Pacific Region,2013,Outdoor ozone pollution,5.393027367
+Western Pacific Region,2014,Outdoor ozone pollution,4.797714341
+Western Pacific Region,2015,Outdoor ozone pollution,4.80828595
+Western Pacific Region,2016,Outdoor ozone pollution,5.158482093
+Western Pacific Region,2017,Outdoor ozone pollution,5.182491183
+Western Pacific Region,2018,Outdoor ozone pollution,4.219354684
+Western Pacific Region,2019,Outdoor ozone pollution,4.056302899
